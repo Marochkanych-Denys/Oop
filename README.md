@@ -1,3 +1,5 @@
+OOP
+
 Implementation of deque (without templates), using knowledge of OOP paradigms and algorithm theory.
 Filling the deque with abstract class (Tovar) and derivatives (Milk, Sousages).
 Implemented validation of the program with Boost_test.
